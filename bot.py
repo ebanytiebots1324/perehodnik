@@ -71,7 +71,7 @@ def get_menu(username):
         [InlineKeyboardButton('👻 Духлес | Поиск по номеру 📱', url='https://t.me/Vospominaniybazabot')],
         [InlineKeyboardButton('🕵️ Шерлок | Поиск по фото 👁', url='https://t.me/HahochnyuBot')],
         [InlineKeyboardButton('🔐 RuVPN | Безопасный VPN 🌐', url='https://t.me/ruvpn?start=partner_1860340689')],
-        [InlineKeyboardButton('👗 Раздеватор | AI раздевалка 🔥', url='https://t.me/razdevator_bot?start=ref')],
+        [InlineKeyboardButton('👗 Раздеватор | AI раздевалка 🔥', url='https://gratzbot.app/?start=ref-7497345483')],
         [
             InlineKeyboardButton('📸 Инста Шпион', url='https://instashpion.ru'),
             InlineKeyboardButton('👥 ВК Шпион', url='https://kogdavseti.ru')
@@ -92,7 +92,6 @@ def get_menu(username):
         ("🥇 СТЕНДОФФ2 ГОЛДА", "https://t.me/Goldsstandoff2fbot?start=ref"),
         ("💎 BRAWL STARS ГЕМЫ", "https://t.me/Brawlgemhalyvabot?start=ref"),
         ("🎬 КИНОПОИСК/PREMIER", "https://t.me/TRIALS_for_free_bot?start=ref"),
-        ("🛒 KUPER ALIEXPRESS", "https://t.me/Kuper_Aliexpress_bot?start=ref"),
         ("🔫 CS2 ХАЛЯВНЫЕ СКИНЫ", "https://t.me/Cs2skinsorbit_bot?start=ref"),
         ("⭐ TG STARS | NFT | PREMIUM", "https://t.me/Tg_stars_NFT_Tg_premium_bot?start=ref"),
         ("💳 СБЕРПРАЙМ ЗА РУБЛЬ", "https://t.me/SberPrime_Za_rub_bot?start=ref"),
